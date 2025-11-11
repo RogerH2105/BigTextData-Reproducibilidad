@@ -89,9 +89,11 @@ bigtext-hadoop-spark-clustering/
 └── .gitignore
 
 ```
+Presentación de Diapositivas: https://gamma.app/docs/Challenge-de-Reproducibilidad-ur5wnfcngwa1s5e
 
 Autor
 
 Andrés Olivar
+Roger Hernández
 Estudiante de Ingeniería de Sistemas — Universidad Industrial de Santander
 Bucaramanga, Colombia
